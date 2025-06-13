@@ -1,6 +1,6 @@
 <!-- TITLE with Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22bb55&center=true&vCenter=true&width=500&lines=MyVault+Password+Manager;Modern+Security,+Effortless+Password+Control" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22bb55&center=true&vCenter=true&width=600&lines=MyVault+Password+Manager;Modern+Security,+Effortless+Password+Control" alt="Typing SVG" />
 </p>
 
 <p align="center">
